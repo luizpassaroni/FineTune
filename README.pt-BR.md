@@ -96,7 +96,7 @@ Pronto. Ajuste os controles, direcione o áudio e explore o EQ pela barra de men
 ## Como contribuir
 
 - **Dê uma estrela ao repositório** — Ajude outras pessoas a descobrir o FineTune.
-- **Reporte bugs** — [Abra uma ocorrência](https://github.com/ronitsingh10/FineTune/issues).
+- **Reporte bugs** — [Abra uma issue](https://github.com/ronitsingh10/FineTune/issues).
 - **Contribua com código** — Consulte [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ### Compilar a partir do código-fonte
