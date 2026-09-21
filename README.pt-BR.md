@@ -2,7 +2,7 @@
 
 <h3>FineTune</h3>
 
-Controle o volume de cada app separadamente, amplifique os mais baixos em até 4×, direcione o áudio para diferentes alto-falantes e ajuste o som com EQ e correção para fones. Vive na barra de menus. Gratuito e de código aberto.
+Controle o volume de cada app separadamente, amplifique apps silenciosos em até 4×, direcione o áudio para diferentes alto-falantes e ajuste o som com EQ e correção para fones. Sempre à mão na barra de menus. Gratuito e de código aberto.
 
 <a href="https://github.com/ronitsingh10/FineTune/releases/latest/download/FineTune.dmg"><img src="assets/download-badge.svg" alt="Baixar para macOS" height="48"/></a>
 
@@ -43,16 +43,16 @@ Pronto. Ajuste os controles, direcione o áudio e explore o EQ pela barra de men
 
 ### 🎚 Controle de volume
 
-- **Volume por app** — Controles e mudo individuais para cada aplicativo.
+- **Volume por app** — Controles de volume e silenciamento individuais para cada aplicativo.
 - **Amplificação por app** — Predefinições de ganho de 2×, 3× e 4×.
 - **Apps fixados** — Mantenha apps visíveis mesmo quando não estiverem reproduzindo áudio, para configurar volume, EQ e roteamento antecipadamente.
 - **Ignorar apps** — Desative o FineTune completamente para apps específicos e restaure o áudio normal do macOS.
-- **Volume pela roda de rolagem** — Passe o cursor sobre qualquer controle no popup, HUD ou painel de EQ e role para ajustar.
+- **Volume pela roda de rolagem** — Passe o cursor sobre qualquer controle no pop-up, HUD ou painel de EQ e role para ajustar.
 
 ### ⌨️ Teclado
 
 - **Atalhos globais de volume** — Configure **Aumentar volume do app**, **Diminuir volume do app** e **Mudo do app** em Ajustes → Atalhos.
-- **Alternar o popup de qualquer lugar** — Defina um atalho para abrir ou fechar o popup, inclusive em apps de tela cheia.
+- **Alternar o pop-up de qualquer lugar** — Defina um atalho para abrir ou fechar o pop-up, inclusive em apps de tela cheia.
 - **Tamanho de passo configurável** — Escolha **Amplo / Normal / Fino / Extra-fino** em Ajustes → Atalhos → Etapa de volume.
 - **Controle completo pelo teclado** — Use setas para navegar e ajustar, **M** para mudo, **Return/Espaço** para ativar, **Tab** para alternar abas e **Esc** para fechar.
 
@@ -74,7 +74,7 @@ Pronto. Ajuste os controles, direcione o áudio e explore o EQ pela barra de men
 
 - **Controle de dispositivos de entrada** — Monitore e ajuste níveis de microfone.
 - **Volume de alertas** — Controle o volume de alertas e notificações do macOS.
-- **Backend de volume inteligente** — O FineTune escolhe volume de hardware, DDC ou software por dispositivo e memoriza a escolha.
+- **Mecanismo inteligente de volume** — O FineTune escolhe automaticamente entre volume de hardware, DDC ou software para cada dispositivo e memoriza a escolha.
 - **Inspetor de dispositivos** — Consulte taxa de amostragem, transporte, UID, modo exclusivo e substituição de volume por software.
 - **Gerenciamento Bluetooth** — Conecte dispositivos pareados diretamente pela barra de menus.
 - **Controle de monitores** — Ajuste displays externos por DDC.
@@ -84,7 +84,7 @@ Pronto. Ajuste os controles, direcione o áudio e explore o EQ pela barra de men
 
 ### 🎨 Aparência
 
-- **Tema claro ou escuro** — Siga o macOS ou fixe o FineTune em Claro ou Escuro.
+- **Tema claro ou escuro** — Siga o macOS ou mantenha o FineTune sempre em Claro ou Escuro.
 - **Densidade do popup** — Escolha **Compacto / Confortável / Espaçoso** com visualização ao vivo.
 
 ## Documentação
@@ -96,7 +96,7 @@ Pronto. Ajuste os controles, direcione o áudio e explore o EQ pela barra de men
 ## Como contribuir
 
 - **Dê uma estrela ao repositório** — Ajude outras pessoas a descobrir o FineTune.
-- **Reporte bugs** — [Abra uma issue](https://github.com/ronitsingh10/FineTune/issues).
+- **Reporte bugs** — [Abra uma ocorrência](https://github.com/ronitsingh10/FineTune/issues).
 - **Contribua com código** — Consulte [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ### Compilar a partir do código-fonte
@@ -114,7 +114,7 @@ open FineTune.xcodeproj
 
 ## Suporte
 
-O FineTune é gratuito e de código aberto, para sempre. Se ele facilitou o seu dia, você pode [pagar um café](https://ko-fi.com/ronitsingh10) — mas não é esperado. 🙏
+O FineTune é gratuito e de código aberto, para sempre. Se ele facilitou o seu dia, você pode [pagar um café](https://ko-fi.com/ronitsingh10) — mas não se sinta na obrigação. 🙏
 
 ## Licença
 
